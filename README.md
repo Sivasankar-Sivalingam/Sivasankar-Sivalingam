@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivasankar-Sivalingam
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning react
+- 👀 Frontend Developer
+- 🌱 Javascript enthusiast
 
 <!---
 Sivasankar-Sivalingam/Sivasankar-Sivalingam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
